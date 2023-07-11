@@ -1,4 +1,4 @@
-#Infexion AI Project - README
+Infexion AI Project - README
 
 This repository contains the implementation of an AI agent for playing the game of Infexion. The project aims to develop an intelligent agent capable of making strategic decisions and playing the game effectively.
 
